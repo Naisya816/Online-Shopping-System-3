@@ -59,18 +59,21 @@ Proyek ini terorganisir dalam beberapa berkas Java:
 * `ProductNotFoundException.java`: Custom exception untuk menangani kasus produk tidak ditemukan.
 * `MainApp.java`: Kelas utama yang menjalankan aplikasi, menginisialisasi produk, menangani input pengguna, dan menampilkan output.
 
-## 🖥️ Cara Menjalankan Program
-
-1.  **Kompilasi**: Pastikan semua file `.java` berada dalam direktori yang sama. Buka terminal atau command prompt di direktori tersebut.
-    ```bash
-    javac *.java
-    ```
-2.  **Jalankan**: Setelah berhasil dikompilasi, jalankan `MainApp`.
-    ```bash
-    java MainApp
-    ```
-3.  Ikuti instruksi di konsol untuk memilih produk dan menambahkannya ke keranjang.
-
 ## 📊 Contoh Output
 
 Berikut adalah contoh interaksi dan output saat menjalankan program:
+![image](https://github.com/user-attachments/assets/9e44f3f1-af75-4bdc-bf57-9f1eb12fadcb)
+![image](https://github.com/user-attachments/assets/6b9f32b2-9191-47aa-a002-2b7088ac2a3e)
+![image](https://github.com/user-attachments/assets/f93a5342-4dd6-4c79-8b2c-8e6b51b1e82c)
+![image](https://github.com/user-attachments/assets/2e777679-8da3-490e-872c-0085bbaab3d1)
+
+## 👥 Anggota Kelompok
+
+* **Tiarasyani Junia Bahri** (51424335)
+* **Naisya Putri Abdullah** (51424000)
+* **Freya Inezra Pardosi** (50424474)
+* **Aulia Tifani** (50424209)
+
+
+
+
